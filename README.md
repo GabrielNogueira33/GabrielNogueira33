@@ -43,6 +43,13 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+
+<br/>
+
+<a href="https://github.com/GabrielNogueira33" title="Perfil do Gabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielNogueira33&theme=dracula&show_icons=true" />
+</a>
+
 <!--
 ## Onde me encontrar
 
