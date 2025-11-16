@@ -50,6 +50,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielNogueira33&theme=dracula&show_icons=true" />
 </a>
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNogueira33&theme=dracula&layout=compact&custom_title=Linguagens&langs_count=9" 
+  />
+
 <!--
 ## Onde me encontrar
 
