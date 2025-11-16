@@ -50,7 +50,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielNogueira33&theme=dracula&show_icons=true" />
 </a>
 
-
+<br/>
 
 <img 
       align="left" 
