@@ -32,14 +32,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=orange)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-333333?style=flat&logo=nginx&logoColor=009639)
 
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-![Intellij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=flat)
+![Intellij](https://img.shields.io/badge/Intellij%20Idea-333333?logo=intellij-idea&style=flat)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
