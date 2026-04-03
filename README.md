@@ -50,20 +50,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
-
-
----
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielNogueira33&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNogueira33&layout=compact&theme=tokyonight&hide_border=true)
-
-<!--
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-nogueira-carvalho-427563264/)](https://www.linkedin.com/in/gabriel-nogueira-carvalho-427563264/)
-
-
--->
