@@ -4,7 +4,7 @@
 
 💼 Desenvolvedor Full-Stack  
 🌱 Buscando me aprofundar cada vez mais em Back-End e Infra  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - SPTECH  
+🎓 Formado em Análise e Desenvolvimento de Sistemas - SPTECH  
 🤝 Sempre explorando novas tecnologias e contribuindo em projetos  
 
 ---
