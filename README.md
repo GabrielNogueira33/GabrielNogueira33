@@ -13,7 +13,7 @@
 
 ### 💻 Back-end 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,nodejs,python" />
 </p>
 
 ---
@@ -42,11 +42,4 @@
 ### 🛠️ Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
-</p>
-
----
-
-### 🤓 Aprendendo
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
 </p>
